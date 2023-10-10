@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ceduda23
-- 👀 I’m interested in TI
-- 🌱 I’m currently learning Sistemas de Informação in Una Betim
+- 👀 I’m very interested in TI
+- 🌱 I’m currently learning Information Systems in Una Betim
 - 📫 How to reach me on LinkedIn
 
