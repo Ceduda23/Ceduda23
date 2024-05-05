@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Ceduda23
-- 👀 I’m very interested in TI
-- 🌱 I’m currently learning Information Systems in Una Betim
-- 📫 How to reach me on LinkedIn
+Meu nome é Cecília, tenho 22 amos e estou cursando Sistemas de Informação na Una Betim.
+
 
